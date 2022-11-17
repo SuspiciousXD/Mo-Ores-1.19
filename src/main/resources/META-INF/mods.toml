@@ -41,7 +41,7 @@ authors="SuspiciousXD" #optional
 #displayTest="MATCH_VERSION" # MATCH_VERSION is the default if nothing is specified (#optional)
 
 # The description text for the mod (multi line!) (#mandatory)
-description="Adds New Ores And Items To Minecraft 1.19 JAva Edition"
+description="Adds New Ores And Items To Minecraft 1.19 Java Edition."
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.moores]] #optional
     # the modid of the dependency
